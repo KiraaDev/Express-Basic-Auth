@@ -1,9 +1,12 @@
-﻿# Express-Basic-Auth
+# Express-Basic-Auth
 
-change repository
+A basic authentication setup using Express with environment-based configuration for database and JWT secrets.
+
+---
+
+### Changing Repository URL
+
+If you need to change the remote repository URL for this project, use the following command:
+
+```bash
 git remote set-url origin <new-repository-url>
-
-Create a .env file
-
-add a JWT_SECRET in env
-
